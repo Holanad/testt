@@ -1,0 +1,21 @@
+{
+  "name": "terminal",
+  "description": "",
+  "main": "",
+  "authors": [
+    "volkov: <volkov99.at@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "intl-tel-input": "^17.0.13",
+    "jquery-validation": "^1.19.3"
+  }
+}
